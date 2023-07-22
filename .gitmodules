@@ -1,0 +1,4 @@
+[submodule "focarafablog/public"]
+	path = focarafablog/public
+	url = https://github.com/focarafa/focarafa.github.io.git
+	branch = main
